@@ -1,4 +1,4 @@
-### Hi there 👋 This is Prashanth Katakam welcome to my GitHub page
+### Hi there 👋 This is Katakam Prashanth  welcome to my GitHub page
 
 <!--
 **prashanth-ds-ml/prashanth-ds-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
